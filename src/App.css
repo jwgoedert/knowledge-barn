@@ -36,3 +36,27 @@
     transform: rotate(360deg);
   }
 }
+
+.header-1 {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size:1.5rem;
+}
+
+.navbar {
+  min-width:width;
+  min-height: 2rem;
+  border-bottom: groove;
+}
+
+.icon-placeholder {
+  width:32px;
+  height:32px;
+  background-color: black;
+}
+
+.column {
+    margin: auto;
+    width: 720px;
+    padding-right: 240px;
+    position: relative;
+}
