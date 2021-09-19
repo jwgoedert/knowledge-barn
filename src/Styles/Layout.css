@@ -67,3 +67,11 @@
     font-size: 16px;
     font-style: italic;
 }
+
+.page-header-text {
+    font-size: 32px;
+    font-weight: 900;
+    font-family: Arial, Helvetica, sans-serif;
+    /* margin-top: 14px; */
+    color: lightslategray;
+}
