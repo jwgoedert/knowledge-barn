@@ -1,5 +1,3 @@
-import logo from './logo.svg';
-import knobaIcon from './Icon-KNOBA.svg';
 import './App.css';
 import Body from './Components/Layout/Body';
 import Navbar from './Components/Layout/Navbar';
@@ -17,8 +15,6 @@ function App() {
     <Router>
       <div>
         <Navbar></Navbar>
-        <img src={logo} alt="logo"></img>
-        <img src={knobaIcon} alt="logo"></img>
         <Switch>
           <Route path="/SubCategories" component={SubCategoriesPage} />
           <Route path="/SubjectsPage" component={SubjectsPage} />
