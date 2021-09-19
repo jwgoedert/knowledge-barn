@@ -1,10 +1,23 @@
 import React from 'react';
+import SubCategoryCard from '../Layout/SubCategoryCard';
 
-export default function SubCategoriesPage() {
-    return (
-        <div className="container page-block">
-            <h1 className="page-header-text">Sub-Categories:</h1>
+export default function SubCategoriesPage(props) {
+  // let category = props.subCategoryProps.category;
+  // console.log('props', props.location.subCategoryProps.category.category );
+  let linkProps = props.location.subCategoryProps;
+  let category = linkProps.category.category;
+  let subCategories = linkProps.category.subCategories;
+  console.log('cat', category);
+  console.log('subcats', linkProps.category.subCategories);
+  let subCatList = subCategories.map((subcat) =>
+    <SubCategoryCard key={subcat.subCategory} subCategory={subcat.subCategory} subjects={subcat.subjects}></SubCategoryCard>);
 
-        </div>
-    )
+  return (
+    <div className="container page-block">
+      <h1 className="page-header-text">Category: {category}</h1>
+      <div>
+        {subCatList}
+      </div>
+    </div>
+  )
 }

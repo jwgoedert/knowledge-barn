@@ -1,216 +1,412 @@
-[{"category":"Ancient History", 
-    "subCategories":[],
-    "tags":[],
-    "lastViewed":"date here",
-    "lastEdited":"date here",
-    "description":"description of category",
-    "styles":{"color":"black"}
-},
-{"category":"Biology", 
-    "subCategories":[],
-    "tags":[],
-    "lastViewed":"date here",
-    "lastEdited":"date here",
-    "description":"description of category",
-    "styles":{"color":"black"}
-},
-{"category":"Design", 
-    "subCategories":[],
-    "tags":[],
-    "lastViewed":"date here",
-    "lastEdited":"date here",
-    "description":"description of category",
-    "styles":{"color":"black"}
-},
-{"category":"Economics", 
-    "subCategories":[],
-    "tags":[],
-    "lastViewed":"date here",
-    "lastEdited":"date here",
-    "description":"description of category",
-    "styles":{"color":"black"}
-},
-{"category":"Geography", 
-    "subCategories":[],
-    "tags":[],
-    "lastViewed":"date here",
-    "lastEdited":"date here",
-    "description":"description of category",
-    "styles":{"color":"black"}
-},
-{"category":"Legal Studies", 
-    "subCategories":[],
-    "tags":[],
-    "lastViewed":"date here",
-    "lastEdited":"date here",
-    "description":"description of category",
-    "styles":{"color":"black"}
-},
-{"category":"Modern History", 
-    "subCategories":[],
-    "tags":[],
-    "lastViewed":"date here",
-    "lastEdited":"date here",
-    "description":"description of category",
-    "styles":{"color":"black"}
-},
-{"category":"Music", 
-    "subCategories":[],
-    "tags":[],
-    "lastViewed":"date here",
-    "lastEdited":"date here",
-    "description":"description of category",
-    "styles":{"color":"black"}
-},
-{"category":"Physical Education", 
-    "subCategories":[],
-    "tags":[],
-    "lastViewed":"date here",
-    "lastEdited":"date here",
-    "description":"description of category",
-    "styles":{"color":"black"}
-},
-{"category":"Physics", 
-    "subCategories":[],
-    "tags":[],
-    "lastViewed":"date here",
-    "lastEdited":"date here",
-    "description":"description of category",
-    "styles":{"color":"black"}
-},
-{"category":"Psychology", 
-    "subCategories":[],
-    "tags":[],
-    "lastViewed":"date here",
-    "lastEdited":"date here",
-    "description":"description of category",
-    "styles":{"color":"black"}
-},
-{"category":"Mathematics", 
-    "subCategories":[],
-    "tags":[],
-    "lastViewed":"date here",
-    "lastEdited":"date here",
-    "description":"description of category",
-    "styles":{"color":"black"}
-},
-{"category":"Visual Art", 
-    "subCategories":[],
-    "tags":[],
-    "lastViewed":"date here",
-    "lastEdited":"date here",
-    "description":"description of category",
-    "styles":{"color":"black"}
-},
-{"category":"Language Arts", 
-    "subCategories":[],
-    "tags":[],
-    "lastViewed":"date here",
-    "lastEdited":"date here",
-    "description":"description of category",
-    "styles":{"color":"black"}
-},
-{"category":"Applied/Pure Sciences", 
-    "subCategories":[],
-    "tags":[],
-    "lastViewed":"date here",
-    "lastEdited":"date here",
-    "description":"description of category",
-    "styles":{"color":"black"}
-},
-{"category":"Architecture/Construction", 
-    "subCategories":[],
-    "tags":[],
-    "lastViewed":"date here",
-    "lastEdited":"date here",
-    "description":"description of category",
-    "styles":{"color":"black"}
-},
-{"category":"Business/Management", 
-    "subCategories":[],
-    "tags":[],
-    "lastViewed":"date here",
-    "lastEdited":"date here",
-    "description":"description of category",
-    "styles":{"color":"black"}
-},
-{"category":"Computer Science/IT", 
-    "subCategories":[],
-    "tags":[],
-    "lastViewed":"date here",
-    "lastEdited":"date here",
-    "description":"description of category",
-    "styles":{"color":"black"}
-},
-{"category":"Creative Arts/Design", 
-    "subCategories":[],
-    "tags":[],
-    "lastViewed":"date here",
-    "lastEdited":"date here",
-    "description":"description of category",
-    "styles":{"color":"black"}
-},
-{"category":"Education/Training", 
-    "subCategories":[],
-    "tags":[],
-    "lastViewed":"date here",
-    "lastEdited":"date here",
-    "description":"description of category",
-    "styles":{"color":"black"}
-},
-{"category":"Engineering", 
-    "subCategories":[],
-    "tags":[],
-    "lastViewed":"date here",
-    "lastEdited":"date here",
-    "description":"description of category",
-    "styles":{"color":"black"}
-},
-{"category":"Health/Medicine", 
-    "subCategories":[],
-    "tags":[],
-    "lastViewed":"date here",
-    "lastEdited":"date here",
-    "description":"description of category",
-    "styles":{"color":"black"}
-},
-{"category":"Law", 
-    "subCategories":[],
-    "tags":[],
-    "lastViewed":"date here",
-    "lastEdited":"date here",
-    "description":"description of category",
-    "styles":{"color":"black"}
-},
-{"category":"MBA", 
-    "subCategories":[],
-    "tags":[],
-    "lastViewed":"date here",
-    "lastEdited":"date here",
-    "description":"description of category",
-    "styles":{"color":"black"}
-},
-{"category":"Personal Care/Fitness", 
-    "subCategories":[],
-    "tags":[],
-    "lastViewed":"date here",
-    "lastEdited":"date here",
-    "description":"description of category",
-    "styles":{"color":"black"}
-},
-{"category":"Social Studies/Media", 
-    "subCategories":[],
-    "tags":[],
-    "lastViewed":"date here",
-    "lastEdited":"date here",
-    "description":"description of category",
-    "styles":{"color":"black"}
-},
-{"category":"Travel/Hospitality", 
-    "subCategories":[],
-    "tags":[],
-    "lastViewed":"date here",
-    "lastEdited":"date here",
-    "description":"description of category",
-    "styles":{"color":"black"}
-}]
+[
+  {
+    "category": "Ancient History",
+    "subCategories": [
+      {
+        "subCategory": "Bronze Age and Early Iron Age",
+        "tags": [
+          "history",
+          "technology"
+        ],
+        "subjects": [
+          {
+            "subject": "Subject 1",
+            "links": [
+              {
+                "link": "linkurl"
+              }
+            ],
+            "articles": [
+              {
+                "title": "ArticleTitle",
+                "content": "a bunch of writings"
+              },
+              {
+                "title": "ArticleTitle2",
+                "content": "a bunch of writings"
+              },
+              {
+                "title": "ArticleTitle2",
+                "content": "a bunch of writings"
+              }
+            ]
+          }
+        ],
+        "description": "an old history thing..."
+      },
+      {
+        "subCategory": "Classical Antiquity",
+        "tags": [
+          "history",
+          "technology"
+        ],
+        "subjects": [
+          {
+            "subject": "Subject 2",
+            "links": [
+              {
+                "link": "linkurl"
+              }
+            ],
+            "articles": [
+              {
+                "title": "ArticleTitle",
+                "content": "a bunch of writings"
+              },
+              {
+                "title": "ArticleTitle2",
+                "content": "a bunch of writings"
+              },
+              {
+                "title": "ArticleTitle3",
+                "content": "a bunch of writings"
+              }
+            ]
+          }
+        ],
+        "description": "an old history thing..."
+      },
+      {
+        "subCategory": "End of Ancient history in Europe",
+        "tags": [
+          "history",
+          "technology"
+        ],
+        "subjects": [
+          {
+            "subject": "Subject 1",
+            "links": [
+              {
+                "link": "linkurl"
+              }
+            ],
+            "articles": [
+              {
+                "title": "ArticleTitle",
+                "content": "a bunch of writings"
+              }
+            ]
+          }
+        ],
+        "description": "an old history thing..."
+      },
+      {
+        "subCategory": "Hellenism",
+        "tags": [
+          "history",
+          "technology"
+        ],
+        "subjects": [
+          {
+            "subject": "Subject 1",
+            "links": [
+              {
+                "link": "linkurl"
+              }
+            ],
+            "articles": [
+              {
+                "title": "ArticleTitle",
+                "content": "a bunch of writings"
+              }
+            ]
+          }
+        ],
+        "description": "an old history thing..."
+      }
+    ],
+    "tags": [],
+    "lastViewed": "date here",
+    "lastEdited": "date here",
+    "description": "description of category",
+    "styles": {
+      "color": "black"
+    }
+  },
+  {
+    "category": "Biology",
+    "subCategories": [],
+    "tags": [],
+    "lastViewed": "date here",
+    "lastEdited": "date here",
+    "description": "description of category",
+    "styles": {
+      "color": "black"
+    }
+  },
+  {
+    "category": "Design",
+    "subCategories": [],
+    "tags": [],
+    "lastViewed": "date here",
+    "lastEdited": "date here",
+    "description": "description of category",
+    "styles": {
+      "color": "black"
+    }
+  },
+  {
+    "category": "Economics",
+    "subCategories": [],
+    "tags": [],
+    "lastViewed": "date here",
+    "lastEdited": "date here",
+    "description": "description of category",
+    "styles": {
+      "color": "black"
+    }
+  },
+  {
+    "category": "Geography",
+    "subCategories": [],
+    "tags": [],
+    "lastViewed": "date here",
+    "lastEdited": "date here",
+    "description": "description of category",
+    "styles": {
+      "color": "black"
+    }
+  },
+  {
+    "category": "Legal Studies",
+    "subCategories": [],
+    "tags": [],
+    "lastViewed": "date here",
+    "lastEdited": "date here",
+    "description": "description of category",
+    "styles": {
+      "color": "black"
+    }
+  },
+  {
+    "category": "Modern History",
+    "subCategories": [],
+    "tags": [],
+    "lastViewed": "date here",
+    "lastEdited": "date here",
+    "description": "description of category",
+    "styles": {
+      "color": "black"
+    }
+  },
+  {
+    "category": "Music",
+    "subCategories": [],
+    "tags": [],
+    "lastViewed": "date here",
+    "lastEdited": "date here",
+    "description": "description of category",
+    "styles": {
+      "color": "black"
+    }
+  },
+  {
+    "category": "Physical Education",
+    "subCategories": [],
+    "tags": [],
+    "lastViewed": "date here",
+    "lastEdited": "date here",
+    "description": "description of category",
+    "styles": {
+      "color": "black"
+    }
+  },
+  {
+    "category": "Physics",
+    "subCategories": [],
+    "tags": [],
+    "lastViewed": "date here",
+    "lastEdited": "date here",
+    "description": "description of category",
+    "styles": {
+      "color": "black"
+    }
+  },
+  {
+    "category": "Psychology",
+    "subCategories": [],
+    "tags": [],
+    "lastViewed": "date here",
+    "lastEdited": "date here",
+    "description": "description of category",
+    "styles": {
+      "color": "black"
+    }
+  },
+  {
+    "category": "Mathematics",
+    "subCategories": [],
+    "tags": [],
+    "lastViewed": "date here",
+    "lastEdited": "date here",
+    "description": "description of category",
+    "styles": {
+      "color": "black"
+    }
+  },
+  {
+    "category": "Visual Art",
+    "subCategories": [],
+    "tags": [],
+    "lastViewed": "date here",
+    "lastEdited": "date here",
+    "description": "description of category",
+    "styles": {
+      "color": "black"
+    }
+  },
+  {
+    "category": "Language Arts",
+    "subCategories": [],
+    "tags": [],
+    "lastViewed": "date here",
+    "lastEdited": "date here",
+    "description": "description of category",
+    "styles": {
+      "color": "black"
+    }
+  },
+  {
+    "category": "Applied/Pure Sciences",
+    "subCategories": [],
+    "tags": [],
+    "lastViewed": "date here",
+    "lastEdited": "date here",
+    "description": "description of category",
+    "styles": {
+      "color": "black"
+    }
+  },
+  {
+    "category": "Architecture/Construction",
+    "subCategories": [],
+    "tags": [],
+    "lastViewed": "date here",
+    "lastEdited": "date here",
+    "description": "description of category",
+    "styles": {
+      "color": "black"
+    }
+  },
+  {
+    "category": "Business/Management",
+    "subCategories": [],
+    "tags": [],
+    "lastViewed": "date here",
+    "lastEdited": "date here",
+    "description": "description of category",
+    "styles": {
+      "color": "black"
+    }
+  },
+  {
+    "category": "Computer Science/IT",
+    "subCategories": [],
+    "tags": [],
+    "lastViewed": "date here",
+    "lastEdited": "date here",
+    "description": "description of category",
+    "styles": {
+      "color": "black"
+    }
+  },
+  {
+    "category": "Creative Arts/Design",
+    "subCategories": [],
+    "tags": [],
+    "lastViewed": "date here",
+    "lastEdited": "date here",
+    "description": "description of category",
+    "styles": {
+      "color": "black"
+    }
+  },
+  {
+    "category": "Education/Training",
+    "subCategories": [],
+    "tags": [],
+    "lastViewed": "date here",
+    "lastEdited": "date here",
+    "description": "description of category",
+    "styles": {
+      "color": "black"
+    }
+  },
+  {
+    "category": "Engineering",
+    "subCategories": [],
+    "tags": [],
+    "lastViewed": "date here",
+    "lastEdited": "date here",
+    "description": "description of category",
+    "styles": {
+      "color": "black"
+    }
+  },
+  {
+    "category": "Health/Medicine",
+    "subCategories": [],
+    "tags": [],
+    "lastViewed": "date here",
+    "lastEdited": "date here",
+    "description": "description of category",
+    "styles": {
+      "color": "black"
+    }
+  },
+  {
+    "category": "Law",
+    "subCategories": [],
+    "tags": [],
+    "lastViewed": "date here",
+    "lastEdited": "date here",
+    "description": "description of category",
+    "styles": {
+      "color": "black"
+    }
+  },
+  {
+    "category": "MBA",
+    "subCategories": [],
+    "tags": [],
+    "lastViewed": "date here",
+    "lastEdited": "date here",
+    "description": "description of category",
+    "styles": {
+      "color": "black"
+    }
+  },
+  {
+    "category": "Personal Care/Fitness",
+    "subCategories": [],
+    "tags": [],
+    "lastViewed": "date here",
+    "lastEdited": "date here",
+    "description": "description of category",
+    "styles": {
+      "color": "black"
+    }
+  },
+  {
+    "category": "Social Studies/Media",
+    "subCategories": [],
+    "tags": [],
+    "lastViewed": "date here",
+    "lastEdited": "date here",
+    "description": "description of category",
+    "styles": {
+      "color": "black"
+    }
+  },
+  {
+    "category": "Travel/Hospitality",
+    "subCategories": [],
+    "tags": [],
+    "lastViewed": "date here",
+    "lastEdited": "date here",
+    "description": "description of category",
+    "styles": {
+      "color": "black"
+    }
+  }
+]
