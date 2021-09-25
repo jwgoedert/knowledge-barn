@@ -19,7 +19,7 @@ const CategoryItemLink = (props) => {
               category:props.category, 
               subCategories:props.subCategories,
           }}}>
-          <h2>{props.category.category}</h2>
+          <h2>{props.category.categoryName}</h2>
           </Link>
           </div>
         </div>

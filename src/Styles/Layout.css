@@ -18,6 +18,38 @@
     padding-left: 16px;
 }
 
+.subcategory-link-text a:link {
+    text-decoration: none;
+}
+
+.subcategory-link-text {
+    background-color: black;
+    color: deeppink;
+    height: 4rem;
+    max-width: 240px;
+    padding: 1rem;
+    text-decoration: none;
+}
+
+
+/* a:link {
+    text-decoration: none;
+} */
+
+/* 
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+    color: yellow;
+}
+
+a:active {
+    text-decoration: none;
+} */
+
 .wrapper {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
@@ -74,4 +106,12 @@
     font-family: Arial, Helvetica, sans-serif;
     /* margin-top: 14px; */
     color: lightslategray;
+}
+
+.card-image {
+    width: 22rem;
+}
+
+.card-block {
+    width: 1fr;
 }

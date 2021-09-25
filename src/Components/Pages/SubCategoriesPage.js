@@ -5,7 +5,7 @@ export default function SubCategoriesPage(props) {
   // let category = props.subCategoryProps.category;
   // console.log('props', props.location.subCategoryProps.category.category );
   let linkProps = props.location.subCategoryProps;
-  let category = linkProps.category.category;
+  let category = linkProps.category.categoryName;
   let subCategories = linkProps.category.subCategories;
   console.log('cat', category);
   console.log('subcats', linkProps.category.subCategories);
@@ -15,7 +15,7 @@ export default function SubCategoriesPage(props) {
   return (
     <div className="container page-block">
       <h1 className="page-header-text">Category: {category}</h1>
-      <div>
+      <div className="wrapper">
         {subCatList}
       </div>
     </div>
